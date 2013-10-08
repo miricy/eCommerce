@@ -1,0 +1,12 @@
+SMAP
+add_005fcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_category.jsp
+add_category.jsp
+*L
+5,6:45
+11:51,3
+12,51:54
+*E
